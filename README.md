@@ -9,6 +9,7 @@ Here is where I share my thoughts.
 - Web Design and Development.
 - Design and Graphics.
 - Tutorials on above.
+- No code enthusiast.
 
 ### Contact
 Email: jingostudios@gmail.com
